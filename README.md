@@ -1,0 +1,1 @@
+# python-para-data-science-numpy-calculos-e-plotting
